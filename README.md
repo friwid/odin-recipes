@@ -1,2 +1,3 @@
 # odin-recipes
-https://www.theodinproject.com/lessons/foundations-recipes
+
+A Github and Coding practice lesson from The Odin Project: https://www.theodinproject.com/lessons/foundations-recipes
